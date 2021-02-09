@@ -1,11 +1,16 @@
 _repo: Chronologische-beschrijving-van-Tegelen-benevens-aanteekeningen-over-Belfeld-en-Steijl_64441
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64441-h/images/cover.png
 creator:
   author:
     agent_name: Peeters, G.
     gutenberg_agent_id: '52900'
     url: http://www.gutenberg.org/2009/agents/52900
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64441#Chronologische-beschrijving-van-Tegelen-benevens-aanteekeningen-over-Belfeld-en-Steijl
 gutenberg_issued: '2021-02-01'
 gutenberg_type: Text
 identifiers:
